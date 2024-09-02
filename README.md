@@ -54,7 +54,7 @@ As an eCommerce and Shopify expert, I specialize in creating and optimizing onli
 <p align="left"><a href="https://www.github.com/findnoyan" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b4bcd968-3eee-441e-afe7-226958703621" width="32" height="32" /></a> 
 <a href="https://www.instagram.com/btw_noyan/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/51fb9ece-75c8-486a-8b25-9565fb657a61" width="32" height="32" /></a> 
 <a href="(https://www.linkedin.com/in/noyan-tanveer-0595152b6/)" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4b18e334-d27c-4d21-ab3c-393c0c81a6de" width="32" height="32" /></a> 
-<a href="https://www.upwork.com/freelancers/~01c1b5e6d592ed9f08" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d2cede46-bab7-432d-afc9-be8c6d2be1ee" width="32" height="32" /></a>
+<a href="https://www.upwork.com/freelancers/~0142802c1da34c8e5f" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d2cede46-bab7-432d-afc9-be8c6d2be1ee" width="32" height="32" /></a>
 <a href="https://www.facebook.com/btw.noyan" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/77c59628-79f7-4ce8-b5b7-3e1bce440c51" width="32" height="32" /</a>
 </p>
 

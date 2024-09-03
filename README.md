@@ -1,4 +1,4 @@
-Hi 👋 My name is Noyan
+Hi 👋 I Am Noyan
 ==============================
 
 Senior Shopify Developer

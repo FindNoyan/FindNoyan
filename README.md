@@ -9,7 +9,7 @@ As an eCommerce and Shopify expert, I specialize in creating and optimizing onli
 
 * 🖥️  Checkout my  [Upwork](https://www.upwork.com/freelancers/~0142802c1da34c8e5f) Profile
 * ✉️  You can contact me at [noyantanveer35@gmail.com](mailto:noyantanveer35@gmail.com)
-* 🧠  I'm continually learning and improving my skills in eCommerce and Shopify development
+* 🧠  I'm continually enhancing my eCommerce and Shopify development skills to stay updated on new features.
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills

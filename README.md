@@ -1,11 +1,10 @@
 Hi 👋 I Am Noyan
 ==============================
 
-Senior Shopify Developer
+Senior Full-Stack Developer
 --------------------
 
-As an eCommerce and Shopify expert, I specialize in creating and optimizing online stores that drive conversions and provide seamless shopping experiences. With a deep understanding of Shopify’s platform, I design, develop, and maintain customized eCommerce solutions that cater to the unique needs of businesses.
-
+As a Full Stack Developer, I specialize in building robust web applications that deliver exceptional user experiences and streamline business operations. With expertise in both frontend and backend development, I design, develop, and maintain scalable solutions tailored to meet diverse project requirements, ensuring seamless functionality and optimal performance.
 
 * 🖥️  Checkout my  [Upwork](https://www.upwork.com/freelancers/~0142802c1da34c8e5f) Profile
 * ✉️  You can contact me at [noyantanveer35@gmail.com](mailto:noyantanveer35@gmail.com)

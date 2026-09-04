@@ -1,61 +1,89 @@
-Hi 👋 I Am Noyan
-==============================
+<div align="center">
 
-Senior Full-Stack Developer
---------------------
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:0d1117&height=220&section=header&text=Hi%20👋%2C%20I'm%20Noyan&fontSize=48&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Automation%20Specialist&descAlignY=58&descSize=18&descColor=BF91F3" />
 
-As a Full Stack Developer, I specialize in building robust web applications that deliver exceptional user experiences and streamline business operations. With expertise in both frontend and backend development, I design, develop, and maintain scalable solutions tailored to meet diverse project requirements, ensuring seamless functionality and optimal performance.
+<a href="https://www.upwork.com/freelancers/~0142802c1da34c8e5f">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Apps;Automating+Businesses+with+AI;Top+Rated+Plus+on+Upwork+%E2%AD%90;Full-Stack+%2B+Automation+%3D+%F0%9F%9A%80" />
+</a>
 
-* 🖥️  Checkout my  [Upwork](https://www.upwork.com/freelancers/~0142802c1da34c8e5f) Profile
-* ✉️  You can contact me at [noyantanveer35@gmail.com](mailto:noyantanveer35@gmail.com)
-* 🧠  I'm continually enhancing my eCommerce and Shopify development skills to stay updated on new features.
-* 🤝  I'm open to collaborating on interesting projects
+<br/>
 
-### Skills
+<a href="https://www.linkedin.com/in/noyan-tanveer-0595152b6/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF"/></a>
+<a href="https://www.upwork.com/freelancers/~0142802c1da34c8e5f"><img src="https://img.shields.io/badge/Upwork-0D1117?style=for-the-badge&logo=upwork&logoColor=BF91F3"/></a>
+<a href="https://noyandev.me/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F0FF"/></a>
+<a href="mailto:noyantanveer35@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=BF91F3"/></a>
+<a href="https://www.instagram.com/btw_noyan/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00F0FF"/></a>
+<a href="https://www.facebook.com/btw.noyan"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=BF91F3"/></a>
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.shopify.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/c97aa7dd-a099-48a2-b29b-a636793fffae" width="50" height="50" alt="Shopify" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=FindNoyan&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS"/>
 
+</div>
 
+<br/>
 
-### Socials
+## 🧠 About Me
 
-<p align="left"><a href="https://www.github.com/findnoyan" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b4bcd968-3eee-441e-afe7-226958703621" width="32" height="32" /></a> 
-<a href="https://www.instagram.com/btw_noyan/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/51fb9ece-75c8-486a-8b25-9565fb657a61" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/noyan-tanveer-0595152b6/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4b18e334-d27c-4d21-ab3c-393c0c81a6de" width="32" height="32" /></a> 
-<a href="https://www.upwork.com/freelancers/~0142802c1da34c8e5f" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d2cede46-bab7-432d-afc9-be8c6d2be1ee" width="32" height="32" /></a>
-<a href="https://www.facebook.com/btw.noyan" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/77c59628-79f7-4ce8-b5b7-3e1bce440c51" width="32" height="32" /</a>
-</p>
+- 🎯 Senior Full-Stack Developer specializing in **scalable web apps** & **AI-powered automation**
+- 🏢 Founder @ **Automation Consulting Services** — building custom automation workflows for businesses
+- 🖥️ **Top Rated Plus** on Upwork (Top 3% of freelancers) — [check my profile](https://www.upwork.com/freelancers/~0142802c1da34c8e5f)
+- 🛒 Deep expertise in **eCommerce & Shopify** development
+- 📚 Currently studying Web Development at Virtual University (VU)
+- 🤝 Open to collaborating on interesting full-stack & automation projects
+- ✉️ Reach me at **noyantanveer35@gmail.com**
 
+<br/>
 
-### GitHub Stats:
+## ⚙️ Tech Stack
 
-![](https://github-readme-stats.vercel.app/api?username=findnoyan&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=findnoyan&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=findnoyan&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,php,html,css,react,nextjs,jquery,sass,tailwind,bootstrap,graphql,mysql,mongodb,firebase,laravel,figma,ps&theme=dark" />
 
-<!--
-### Badges
+<br/><br/>
 
- <b>My GitHub Stats</b>
+<img src="https://img.shields.io/badge/Shopify-0D1117?style=for-the-badge&logo=shopify&logoColor=95BF47"/>
+<img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=EA4B71"/>
+<img src="https://img.shields.io/badge/Zapier-0D1117?style=for-the-badge&logo=zapier&logoColor=FF4A00"/>
+</div>
 
-<a href="http://www.github.com/findusman"><img src="https://github-readme-stats.vercel.app/api?username=findusman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ef4444&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="findusman's GitHub stats" /></a> -->
+<br/>
+
+## 🚀 Featured Projects
+
+<!-- Swap these 3 rows with your real projects — name, 1-line description, live link -->
+
+<div align="center">
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Project Name](#)** | One-line description of what it does and the problem it solves | React · Node.js |
+| **[Project Name](#)** | One-line description of what it does and the problem it solves | Laravel · MySQL |
+| **[Project Name](#)** | One-line description of what it does and the problem it solves | Shopify · JS |
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=FindNoyan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=BF91F3&text_color=C9D1D9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FindNoyan&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=BF91F3&currStreakLabel=00F0FF" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FindNoyan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" />
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=FindNoyan&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:302b63,100:0f0c29&height=120&section=footer" />
+
+</div>

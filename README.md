@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:0d1117&height=220&section=header&text=Hi%20👋%2C%20I'm%20Noyan&fontSize=48&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Automation%20Specialist&descAlignY=58&descSize=18&descColor=BF91F3" />
 
 <a href="https://www.upwork.com/freelancers/~0142802c1da34c8e5f">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Apps;Automating+Businesses+with+AI;Top+Rated+Plus+on+Upwork+%E2%AD%90;Full-Stack+%2B+Automation+%3D+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Apps;Automating+Businesses+with+AI;Full-Stack+%2B+Automation+%3D+%F0%9F%9A%80" />
 </a>
 
 <br/>
@@ -24,10 +24,9 @@
 ## 🧠 About Me
 
 - 🎯 Senior Full-Stack Developer specializing in **scalable web apps** & **AI-powered automation**
-- 🏢 Founder @ **Automation Consulting Services** — building custom automation workflows for businesses
-- 🖥️ **Top Rated Plus** on Upwork (Top 3% of freelancers) — [check my profile](https://www.upwork.com/freelancers/~0142802c1da34c8e5f)
-- 🛒 Deep expertise in **eCommerce & Shopify** development
-- 📚 Currently studying Web Development at Virtual University (VU)
+- 🖥️ My Upwork — [check my profile](https://www.upwork.com/freelancers/~0142802c1da34c8e5f)
+- 🛒 Deep expertise in **Web & AI** development
+- 📚 Currently studying IT at Virtual University (VU)
 - 🤝 Open to collaborating on interesting full-stack & automation projects
 - ✉️ Reach me at **noyantanveer35@gmail.com**
 
@@ -55,9 +54,9 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Project Name](#)** | One-line description of what it does and the problem it solves | React · Node.js |
-| **[Project Name](#)** | One-line description of what it does and the problem it solves | Laravel · MySQL |
-| **[Project Name](#)** | One-line description of what it does and the problem it solves | Shopify · JS |
+| **Adology AI** | One-line description of what it does and the problem it solves | React · Node.js |
+| **Bigphotohunt** | One-line description of what it does and the problem it solves | Laravel · MySQL |
+| **Luxuri** | One-line description of what it does and the problem it solves | Shopify · JS |
 
 </div>
 

@@ -54,9 +54,9 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **Adology AI** | One-line description of what it does and the problem it solves | React · Node.js |
-| **Bigphotohunt** | One-line description of what it does and the problem it solves | Laravel · MySQL |
-| **Luxuri** | One-line description of what it does and the problem it solves | Shopify · JS |
+| **AutoFlow** | Dashboard for monitoring automated workflows — runs, failures, and time saved, at a glance | Next.js · Tailwind |
+| **Tasklane** | A Kanban-style task manager for small teams, with boards, due dates, and priority tracking. | Laravel · Blade |
+| **Cadence** | Marketing landing page for a scheduling-automation product — built for a fast first impression. | HTML · Tailwind · JS |
 
 </div>
 

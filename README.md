@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:0d1117&height=220&section=header&text=Hi%20👋%2C%20I'm%20Noyan&fontSize=48&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Automation%20Specialist&descAlignY=58&descSize=18&descColor=BF91F3" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:0d1117&height=220&section=header&text=Hi%20👋%2C%20I'm%20Noyan&fontSize=48&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20and%20Automation%20Specialist&descAlignY=58&descSize=18&descColor=BF91F3" />
 
 <a href="https://www.upwork.com/freelancers/~0142802c1da34c8e5f">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Apps;Automating+Businesses+with+AI;Full-Stack+%2B+Automation+%3D+%F0%9F%9A%80" />

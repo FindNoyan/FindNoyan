@@ -65,12 +65,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=FindNoyan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=BF91F3&text_color=C9D1D9" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=FindNoyan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=BF91F3&text_color=C9D1D9" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=FindNoyan&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=BF91F3&currStreakLabel=00F0FF" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FindNoyan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FindNoyan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" />
 </div>
 
 <br/>

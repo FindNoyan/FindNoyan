@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:0d1117&height=220&section=header&text=Hi%20👋%2C%20I'm%20Noyan&fontSize=48&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20and%20Automation%20Specialist&descAlignY=58&descSize=18&descColor=BF91F3">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F7F7FB,50:ECEAFB,100:FFFFFF&height=220&section=header&text=Hi%20👋%2C%20I'm%20Noyan&fontSize=48&fontColor=5B48F0&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20and%20Automation%20Specialist&descAlignY=58&descSize=18&descColor=4B4D63">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29%2C50:302b63%2C100:0d1117&height=220&section=header&text=Hi%20👋%2C%20I'm%20Noyan&fontSize=48&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20and%20Automation%20Specialist&descAlignY=58&descSize=18&descColor=BF91F3">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F7F7FB%2C50:ECEAFB%2C100:FFFFFF&height=220&section=header&text=Hi%20👋%2C%20I'm%20Noyan&fontSize=48&fontColor=5B48F0&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20and%20Automation%20Specialist&descAlignY=58&descSize=18&descColor=4B4D63">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:0d1117&height=220&section=header&text=Hi%20👋%2C%20I'm%20Noyan&fontSize=48&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20and%20Automation%20Specialist&descAlignY=58&descSize=18&descColor=BF91F3" />
 </picture>
 
@@ -80,8 +80,8 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,php,html,css,react,nextjs,jquery,sass,tailwind,bootstrap,graphql,mysql,mongodb,firebase,laravel,figma,ps&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,php,html,css,react,nextjs,jquery,sass,tailwind,bootstrap,graphql,mysql,mongodb,firebase,laravel,figma,ps&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Cphp%2Chtml%2Ccss%2Creact%2Cnextjs%2Cjquery%2Csass%2Ctailwind%2Cbootstrap%2Cgraphql%2Cmysql%2Cmongodb%2Cfirebase%2Claravel%2Cfigma%2Cps&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Cphp%2Chtml%2Ccss%2Creact%2Cnextjs%2Cjquery%2Csass%2Ctailwind%2Cbootstrap%2Cgraphql%2Cmysql%2Cmongodb%2Cfirebase%2Claravel%2Cfigma%2Cps&theme=light">
   <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,react,nextjs,jquery,sass,tailwind,bootstrap,graphql,mysql,mongodb,firebase,laravel,figma,ps&theme=dark" />
 </picture>
 
@@ -158,8 +158,8 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:302b63,100:0f0c29&height=120&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:ECEAFB,100:F7F7FB&height=120&section=footer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C50:302b63%2C100:0f0c29&height=120&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF%2C50:ECEAFB%2C100:F7F7FB&height=120&section=footer">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:302b63,100:0f0c29&height=120&section=footer" />
 </picture>
 
